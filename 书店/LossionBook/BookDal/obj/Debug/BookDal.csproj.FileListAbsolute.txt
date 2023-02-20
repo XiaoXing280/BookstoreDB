@@ -1,0 +1,9 @@
+E:\实训项目\书店\LossionBook\BookDal\bin\Debug\BookDal.dll
+E:\实训项目\书店\LossionBook\BookDal\bin\Debug\BookDal.pdb
+E:\实训项目\书店\LossionBook\BookDal\bin\Debug\BookModel.dll
+E:\实训项目\书店\LossionBook\BookDal\bin\Debug\BookModel.pdb
+E:\实训项目\书店\LossionBook\BookDal\obj\Debug\BookDal.csprojAssemblyReference.cache
+E:\实训项目\书店\LossionBook\BookDal\obj\Debug\BookDal.csproj.CoreCompileInputs.cache
+E:\实训项目\书店\LossionBook\BookDal\obj\Debug\BookDal.csproj.CopyComplete
+E:\实训项目\书店\LossionBook\BookDal\obj\Debug\BookDal.dll
+E:\实训项目\书店\LossionBook\BookDal\obj\Debug\BookDal.pdb

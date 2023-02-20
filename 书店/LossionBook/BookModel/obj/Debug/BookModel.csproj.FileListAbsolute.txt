@@ -1,0 +1,5 @@
+E:\实训项目\书店\LossionBook\BookModel\bin\Debug\BookModel.dll
+E:\实训项目\书店\LossionBook\BookModel\bin\Debug\BookModel.pdb
+E:\实训项目\书店\LossionBook\BookModel\obj\Debug\BookModel.csproj.CoreCompileInputs.cache
+E:\实训项目\书店\LossionBook\BookModel\obj\Debug\BookModel.dll
+E:\实训项目\书店\LossionBook\BookModel\obj\Debug\BookModel.pdb
